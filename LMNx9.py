@@ -5,7 +5,7 @@ limon = platform.architecture()[0]
 if limon == '64bit':import LMNx9
 elif limon == '32bit':
     os.system("clear")
-    os.system('xdg-open https://t.me/TEAM_LMNx9')
+    os.system('xdg-open https://t.me/rk_on_fire')
     time.sleep(3)
     sys.exit("\n</> Your Device Is Not Supported For Run This Tool..!")
 else:
